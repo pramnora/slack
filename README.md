@@ -1,2 +1,3 @@
 # slack
-Files for use with: slack.com
+Files for use with:   
+http://www.slack.com
